@@ -1,0 +1,2112 @@
+{
+  "sessionId": "trip-001",
+  "startTime": "2025-06-25T08:00:00Z",
+  "endTime": "2025-06-25T08:05:00Z",
+  "durationSec": 300,
+  "distanceKm": 2.4,
+  "vehicleId": "vehicle-001",
+  "driverId": "driver-001",
+  "points": 
+[
+  {
+    "timestamp": "2025-06-15T20:18:35.132Z",
+    "latitude": 37.77489545647915,
+    "longitude": -122.41939932908618,
+    "acceleration": -0.02,
+    "rotation": 0
+  },
+  {
+    "timestamp": "2025-06-15T20:18:36.135Z",
+    "latitude": 37.7749011269913,
+    "longitude": -122.41939798756162,
+    "acceleration": 0.83,
+    "rotation": 1.67
+  },
+  {
+    "timestamp": "2025-06-15T20:18:37.135Z",
+    "latitude": 37.77490072566556,
+    "longitude": -122.41939067872401,
+    "acceleration": 0.36,
+    "rotation": 3.32
+  },
+  {
+    "timestamp": "2025-06-15T20:18:38.135Z",
+    "latitude": 37.77488566300549,
+    "longitude": -122.41938266191735,
+    "acceleration": 0.52,
+    "rotation": 4.97
+  },
+  {
+    "timestamp": "2025-06-15T20:18:39.135Z",
+    "latitude": 37.774892056388815,
+    "longitude": -122.41938359565125,
+    "acceleration": 0.41,
+    "rotation": 6.59
+  },
+  {
+    "timestamp": "2025-06-15T20:18:40.135Z",
+    "latitude": 37.77486206789683,
+    "longitude": -122.41940827940206,
+    "acceleration": -0.24,
+    "rotation": 8.18
+  },
+  {
+    "timestamp": "2025-06-15T20:18:41.135Z",
+    "latitude": 37.774831097229175,
+    "longitude": -122.41940869774194,
+    "acceleration": -0.63,
+    "rotation": 9.74
+  },
+  {
+    "timestamp": "2025-06-15T20:18:42.135Z",
+    "latitude": 37.77481316501661,
+    "longitude": -122.41939304567703,
+    "acceleration": -0.49,
+    "rotation": 11.25
+  },
+  {
+    "timestamp": "2025-06-15T20:18:43.135Z",
+    "latitude": 37.774810224980754,
+    "longitude": -122.41943249540914,
+    "acceleration": 1.1,
+    "rotation": 12.71
+  },
+  {
+    "timestamp": "2025-06-15T20:18:44.135Z",
+    "latitude": 37.774832083463345,
+    "longitude": -122.41942882923557,
+    "acceleration": 0.64,
+    "rotation": 14.12
+  },
+  {
+    "timestamp": "2025-06-15T20:18:45.135Z",
+    "latitude": 37.77481387340077,
+    "longitude": -122.41938176022511,
+    "acceleration": 1.43,
+    "rotation": 15.46
+  },
+  {
+    "timestamp": "2025-06-15T20:18:46.135Z",
+    "latitude": 37.77478499804562,
+    "longitude": -122.41932658231792,
+    "acceleration": 0.71,
+    "rotation": 16.73
+  },
+  {
+    "timestamp": "2025-06-15T20:18:47.135Z",
+    "latitude": 37.77483354335315,
+    "longitude": -122.41937311419542,
+    "acceleration": -0.21,
+    "rotation": 17.93
+  },
+  {
+    "timestamp": "2025-06-15T20:18:48.135Z",
+    "latitude": 37.77476378555175,
+    "longitude": -122.41935893966314,
+    "acceleration": 0.61,
+    "rotation": 19.05
+  },
+  {
+    "timestamp": "2025-06-15T20:18:49.135Z",
+    "latitude": 37.77478987256062,
+    "longitude": -122.41940374854099,
+    "acceleration": 1.47,
+    "rotation": 20.09
+  },
+  {
+    "timestamp": "2025-06-15T20:18:50.135Z",
+    "latitude": 37.77483478896508,
+    "longitude": -122.41937963712266,
+    "acceleration": 0.87,
+    "rotation": 21.04
+  },
+  {
+    "timestamp": "2025-06-15T20:18:51.135Z",
+    "latitude": 37.77484652692522,
+    "longitude": -122.41943604500054,
+    "acceleration": 0.27,
+    "rotation": 21.89
+  },
+  {
+    "timestamp": "2025-06-15T20:18:52.135Z",
+    "latitude": 37.774803728855005,
+    "longitude": -122.41947277862033,
+    "acceleration": 0.09,
+    "rotation": 22.65
+  },
+  {
+    "timestamp": "2025-06-15T20:18:53.135Z",
+    "latitude": 37.77489569790102,
+    "longitude": -122.41945399142219,
+    "acceleration": 1.37,
+    "rotation": 23.3
+  },
+  {
+    "timestamp": "2025-06-15T20:18:54.135Z",
+    "latitude": 37.77484295413386,
+    "longitude": -122.41939382121835,
+    "acceleration": 0.65,
+    "rotation": 23.85
+  },
+  {
+    "timestamp": "2025-06-15T20:18:55.135Z",
+    "latitude": 37.774817637574714,
+    "longitude": -122.41946714257905,
+    "acceleration": 1.02,
+    "rotation": 24.3
+  },
+  {
+    "timestamp": "2025-06-15T20:18:56.135Z",
+    "latitude": 37.77475209424389,
+    "longitude": -122.41951749960018,
+    "acceleration": 1.56,
+    "rotation": 24.64
+  },
+  {
+    "timestamp": "2025-06-15T20:18:57.135Z",
+    "latitude": 37.774795863797976,
+    "longitude": -122.41951606380711,
+    "acceleration": 1.5,
+    "rotation": 24.86
+  },
+  {
+    "timestamp": "2025-06-15T20:18:58.135Z",
+    "latitude": 37.774909552347864,
+    "longitude": -122.41947441483816,
+    "acceleration": 2.04,
+    "rotation": 24.98
+  },
+  {
+    "timestamp": "2025-06-15T20:18:59.135Z",
+    "latitude": 37.77494310782224,
+    "longitude": -122.41957158992012,
+    "acceleration": 0.79,
+    "rotation": 24.99
+  },
+  {
+    "timestamp": "2025-06-15T20:19:00.135Z",
+    "latitude": 37.77488502345488,
+    "longitude": -122.41956252059653,
+    "acceleration": 1.68,
+    "rotation": 24.89
+  },
+  {
+    "timestamp": "2025-06-15T20:19:01.135Z",
+    "latitude": 37.77477640570979,
+    "longitude": -122.41948823878883,
+    "acceleration": 1.31,
+    "rotation": 24.67
+  },
+  {
+    "timestamp": "2025-06-15T20:19:02.135Z",
+    "latitude": 37.774742490142664,
+    "longitude": -122.4194995580255,
+    "acceleration": 2.12,
+    "rotation": 24.35
+  },
+  {
+    "timestamp": "2025-06-15T20:19:03.135Z",
+    "latitude": 37.774661973909744,
+    "longitude": -122.41957195522461,
+    "acceleration": 1.58,
+    "rotation": 23.91
+  },
+  {
+    "timestamp": "2025-06-15T20:19:04.135Z",
+    "latitude": 37.77471450574172,
+    "longitude": -122.41961792855922,
+    "acceleration": 0.73,
+    "rotation": 23.38
+  },
+  {
+    "timestamp": "2025-06-15T20:19:05.135Z",
+    "latitude": 37.774735346714614,
+    "longitude": -122.41955097128044,
+    "acceleration": 1.12,
+    "rotation": 22.73
+  },
+  {
+    "timestamp": "2025-06-15T20:19:06.135Z",
+    "latitude": 37.77462763688316,
+    "longitude": -122.41951546641627,
+    "acceleration": 1.36,
+    "rotation": 21.99
+  },
+  {
+    "timestamp": "2025-06-15T20:19:07.135Z",
+    "latitude": 37.77467396615482,
+    "longitude": -122.4194881145589,
+    "acceleration": 1.44,
+    "rotation": 21.15
+  },
+  {
+    "timestamp": "2025-06-15T20:19:08.135Z",
+    "latitude": 37.774612864992484,
+    "longitude": -122.41953208238765,
+    "acceleration": 0.55,
+    "rotation": 20.21
+  },
+  {
+    "timestamp": "2025-06-15T20:19:09.135Z",
+    "latitude": 37.774522610427006,
+    "longitude": -122.41955966646252,
+    "acceleration": 1.32,
+    "rotation": 19.19
+  },
+  {
+    "timestamp": "2025-06-15T20:19:10.135Z",
+    "latitude": 37.77465562728544,
+    "longitude": -122.41961631554524,
+    "acceleration": 2.45,
+    "rotation": 18.08
+  },
+  {
+    "timestamp": "2025-06-15T20:19:11.135Z",
+    "latitude": 37.77474432684648,
+    "longitude": -122.41948608675648,
+    "acceleration": 1.39,
+    "rotation": 16.89
+  },
+  {
+    "timestamp": "2025-06-15T20:19:12.135Z",
+    "latitude": 37.774632496102036,
+    "longitude": -122.41944515217217,
+    "acceleration": 1.68,
+    "rotation": 15.62
+  },
+  {
+    "timestamp": "2025-06-15T20:19:13.135Z",
+    "latitude": 37.77460138059348,
+    "longitude": -122.4192989077275,
+    "acceleration": 0.82,
+    "rotation": 14.29
+  },
+  {
+    "timestamp": "2025-06-15T20:19:14.135Z",
+    "latitude": 37.77458483843232,
+    "longitude": -122.41919581746897,
+    "acceleration": 1.66,
+    "rotation": 12.89
+  },
+  {
+    "timestamp": "2025-06-15T20:19:15.135Z",
+    "latitude": 37.774627490809316,
+    "longitude": -122.4192657593787,
+    "acceleration": 1.97,
+    "rotation": 11.43
+  },
+  {
+    "timestamp": "2025-06-15T20:19:16.135Z",
+    "latitude": 37.77452482635688,
+    "longitude": -122.41933268522027,
+    "acceleration": 1.85,
+    "rotation": 9.93
+  },
+  {
+    "timestamp": "2025-06-15T20:19:17.135Z",
+    "latitude": 37.7745757486405,
+    "longitude": -122.4192297256654,
+    "acceleration": 0.89,
+    "rotation": 8.37
+  },
+  {
+    "timestamp": "2025-06-15T20:19:18.135Z",
+    "latitude": 37.77452567650868,
+    "longitude": -122.41911139062691,
+    "acceleration": 2.08,
+    "rotation": 6.79
+  },
+  {
+    "timestamp": "2025-06-15T20:19:19.135Z",
+    "latitude": 37.774673626507564,
+    "longitude": -122.41914980971549,
+    "acceleration": 2.48,
+    "rotation": 5.17
+  },
+  {
+    "timestamp": "2025-06-15T20:19:20.135Z",
+    "latitude": 37.77478922207201,
+    "longitude": -122.41921877580532,
+    "acceleration": 1.5,
+    "rotation": 3.53
+  },
+  {
+    "timestamp": "2025-06-15T20:19:21.135Z",
+    "latitude": 37.77480391987238,
+    "longitude": -122.4192778497331,
+    "acceleration": 2.04,
+    "rotation": 1.87
+  },
+  {
+    "timestamp": "2025-06-15T20:19:22.135Z",
+    "latitude": 37.77491897746309,
+    "longitude": -122.41929673758844,
+    "acceleration": 0.57,
+    "rotation": 0.21
+  },
+  {
+    "timestamp": "2025-06-15T20:19:23.135Z",
+    "latitude": 37.774934549257146,
+    "longitude": -122.41920742366592,
+    "acceleration": 1.92,
+    "rotation": -1.46
+  },
+  {
+    "timestamp": "2025-06-15T20:19:24.135Z",
+    "latitude": 37.77501128241913,
+    "longitude": -122.4192864882754,
+    "acceleration": 2.3,
+    "rotation": -3.12
+  },
+  {
+    "timestamp": "2025-06-15T20:19:25.135Z",
+    "latitude": 37.77513550961598,
+    "longitude": -122.41921819488114,
+    "acceleration": 0.84,
+    "rotation": -4.76
+  },
+  {
+    "timestamp": "2025-06-15T20:19:26.135Z",
+    "latitude": 37.77519967077912,
+    "longitude": -122.41933263928546,
+    "acceleration": 1.49,
+    "rotation": -6.39
+  },
+  {
+    "timestamp": "2025-06-15T20:19:27.135Z",
+    "latitude": 37.7753447486254,
+    "longitude": -122.41944159313155,
+    "acceleration": 2.25,
+    "rotation": -7.98
+  },
+  {
+    "timestamp": "2025-06-15T20:19:28.135Z",
+    "latitude": 37.77522672488073,
+    "longitude": -122.41930421467039,
+    "acceleration": 1.94,
+    "rotation": -9.54
+  },
+  {
+    "timestamp": "2025-06-15T20:19:29.135Z",
+    "latitude": 37.77511708405966,
+    "longitude": -122.41925804930275,
+    "acceleration": 0.52,
+    "rotation": -11.06
+  },
+  {
+    "timestamp": "2025-06-15T20:19:30.135Z",
+    "latitude": 37.775165873729506,
+    "longitude": -122.41935044537354,
+    "acceleration": 0.97,
+    "rotation": -12.53
+  },
+  {
+    "timestamp": "2025-06-15T20:19:31.135Z",
+    "latitude": 37.77509367554035,
+    "longitude": -122.4194878427657,
+    "acceleration": 2.2,
+    "rotation": -13.95
+  },
+  {
+    "timestamp": "2025-06-15T20:19:32.135Z",
+    "latitude": 37.77498298384798,
+    "longitude": -122.41959583351257,
+    "acceleration": 1.21,
+    "rotation": -15.3
+  },
+  {
+    "timestamp": "2025-06-15T20:19:33.135Z",
+    "latitude": 37.775020946791855,
+    "longitude": -122.41961304537134,
+    "acceleration": 0.86,
+    "rotation": -16.58
+  },
+  {
+    "timestamp": "2025-06-15T20:19:34.135Z",
+    "latitude": 37.77505686320707,
+    "longitude": -122.41961485300843,
+    "acceleration": 1.84,
+    "rotation": -17.79
+  },
+  {
+    "timestamp": "2025-06-15T20:19:35.135Z",
+    "latitude": 37.77498204082994,
+    "longitude": -122.41973657988389,
+    "acceleration": 0.7,
+    "rotation": -18.92
+  },
+  {
+    "timestamp": "2025-06-15T20:19:36.135Z",
+    "latitude": 37.77505705926287,
+    "longitude": -122.41970591815806,
+    "acceleration": 1.06,
+    "rotation": -19.97
+  },
+  {
+    "timestamp": "2025-06-15T20:19:37.135Z",
+    "latitude": 37.77504001600484,
+    "longitude": -122.41981815673067,
+    "acceleration": 2.34,
+    "rotation": -20.92
+  },
+  {
+    "timestamp": "2025-06-15T20:19:38.135Z",
+    "latitude": 37.775083596651456,
+    "longitude": -122.41983775617,
+    "acceleration": 2.15,
+    "rotation": -21.79
+  },
+  {
+    "timestamp": "2025-06-15T20:19:39.135Z",
+    "latitude": 37.774955479375116,
+    "longitude": -122.41985945820012,
+    "acceleration": 0.83,
+    "rotation": -22.56
+  },
+  {
+    "timestamp": "2025-06-15T20:19:40.135Z",
+    "latitude": 37.774976321740645,
+    "longitude": -122.41980007077504,
+    "acceleration": 1.72,
+    "rotation": -23.23
+  },
+  {
+    "timestamp": "2025-06-15T20:19:41.135Z",
+    "latitude": 37.774850016000684,
+    "longitude": -122.41991084308474,
+    "acceleration": 2.07,
+    "rotation": -23.79
+  },
+  {
+    "timestamp": "2025-06-15T20:19:42.135Z",
+    "latitude": 37.77487066201202,
+    "longitude": -122.42001926978233,
+    "acceleration": 1.43,
+    "rotation": -24.25
+  },
+  {
+    "timestamp": "2025-06-15T20:19:43.135Z",
+    "latitude": 37.774801325756776,
+    "longitude": -122.41997788884726,
+    "acceleration": 1.89,
+    "rotation": -24.6
+  },
+  {
+    "timestamp": "2025-06-15T20:19:44.135Z",
+    "latitude": 37.77479701467541,
+    "longitude": -122.41998934552299,
+    "acceleration": 1.31,
+    "rotation": -24.84
+  },
+  {
+    "timestamp": "2025-06-15T20:19:45.135Z",
+    "latitude": 37.77470556865211,
+    "longitude": -122.42001391417072,
+    "acceleration": 1.34,
+    "rotation": -24.97
+  },
+  {
+    "timestamp": "2025-06-15T20:19:46.135Z",
+    "latitude": 37.77481217294497,
+    "longitude": -122.42005976735092,
+    "acceleration": 1.03,
+    "rotation": -24.99
+  },
+  {
+    "timestamp": "2025-06-15T20:19:47.135Z",
+    "latitude": 37.77483046765522,
+    "longitude": -122.4200030004675,
+    "acceleration": 1.61,
+    "rotation": -24.9
+  },
+  {
+    "timestamp": "2025-06-15T20:19:48.135Z",
+    "latitude": 37.77488595490951,
+    "longitude": -122.41989284160728,
+    "acceleration": 1.25,
+    "rotation": -24.7
+  },
+  {
+    "timestamp": "2025-06-15T20:19:49.135Z",
+    "latitude": 37.77497285715609,
+    "longitude": -122.41990321853476,
+    "acceleration": 0.74,
+    "rotation": -24.39
+  },
+  {
+    "timestamp": "2025-06-15T20:19:50.135Z",
+    "latitude": 37.774940855544266,
+    "longitude": -122.4199543604394,
+    "acceleration": 0.13,
+    "rotation": -23.97
+  },
+  {
+    "timestamp": "2025-06-15T20:19:51.135Z",
+    "latitude": 37.774951599787634,
+    "longitude": -122.41994442930195,
+    "acceleration": 0.84,
+    "rotation": -23.45
+  },
+  {
+    "timestamp": "2025-06-15T20:19:52.135Z",
+    "latitude": 37.774950663832826,
+    "longitude": -122.420037287033,
+    "acceleration": 2.03,
+    "rotation": -22.82
+  },
+  {
+    "timestamp": "2025-06-15T20:19:53.135Z",
+    "latitude": 37.77501975443533,
+    "longitude": -122.4200593954846,
+    "acceleration": 1.45,
+    "rotation": -22.09
+  },
+  {
+    "timestamp": "2025-06-15T20:19:54.135Z",
+    "latitude": 37.774941664454374,
+    "longitude": -122.42013311771488,
+    "acceleration": 0.12,
+    "rotation": -21.26
+  },
+  {
+    "timestamp": "2025-06-15T20:19:55.135Z",
+    "latitude": 37.7749071826983,
+    "longitude": -122.42017850815819,
+    "acceleration": 1.03,
+    "rotation": -20.33
+  },
+  {
+    "timestamp": "2025-06-15T20:19:56.135Z",
+    "latitude": 37.774844764587,
+    "longitude": -122.42013827336244,
+    "acceleration": 0.92,
+    "rotation": -19.32
+  },
+  {
+    "timestamp": "2025-06-15T20:19:57.135Z",
+    "latitude": 37.774871450897145,
+    "longitude": -122.42008185657419,
+    "acceleration": 1.03,
+    "rotation": -18.22
+  },
+  {
+    "timestamp": "2025-06-15T20:19:58.135Z",
+    "latitude": 37.77479813617551,
+    "longitude": -122.42002063546876,
+    "acceleration": 0.5,
+    "rotation": -17.04
+  },
+  {
+    "timestamp": "2025-06-15T20:19:59.135Z",
+    "latitude": 37.77481611668566,
+    "longitude": -122.41998261099658,
+    "acceleration": 1.08,
+    "rotation": -15.78
+  },
+  {
+    "timestamp": "2025-06-15T20:20:00.135Z",
+    "latitude": 37.77487086501905,
+    "longitude": -122.42006740386303,
+    "acceleration": 0.49,
+    "rotation": -14.45
+  },
+  {
+    "timestamp": "2025-06-15T20:20:01.135Z",
+    "latitude": 37.77494921395412,
+    "longitude": -122.4200184616715,
+    "acceleration": 1.46,
+    "rotation": -13.06
+  },
+  {
+    "timestamp": "2025-06-15T20:20:02.135Z",
+    "latitude": 37.774927553536095,
+    "longitude": -122.42002609299259,
+    "acceleration": -0.13,
+    "rotation": -11.62
+  },
+  {
+    "timestamp": "2025-06-15T20:20:03.135Z",
+    "latitude": 37.77499708036431,
+    "longitude": -122.41997120760276,
+    "acceleration": 1.05,
+    "rotation": -10.11
+  },
+  {
+    "timestamp": "2025-06-15T20:20:04.135Z",
+    "latitude": 37.77494750032655,
+    "longitude": -122.42001066638949,
+    "acceleration": 0.01,
+    "rotation": -8.57
+  },
+  {
+    "timestamp": "2025-06-15T20:20:05.135Z",
+    "latitude": 37.77495437227745,
+    "longitude": -122.42005685370583,
+    "acceleration": 1.5,
+    "rotation": -6.99
+  },
+  {
+    "timestamp": "2025-06-15T20:20:06.135Z",
+    "latitude": 37.774887100987954,
+    "longitude": -122.41999750455473,
+    "acceleration": -0.26,
+    "rotation": -5.37
+  },
+  {
+    "timestamp": "2025-06-15T20:20:07.135Z",
+    "latitude": 37.774926412404085,
+    "longitude": -122.4199800883088,
+    "acceleration": 0.89,
+    "rotation": -3.73
+  },
+  {
+    "timestamp": "2025-06-15T20:20:08.135Z",
+    "latitude": 37.774991664661414,
+    "longitude": -122.41997773554526,
+    "acceleration": 1.38,
+    "rotation": -2.08
+  },
+  {
+    "timestamp": "2025-06-15T20:20:09.135Z",
+    "latitude": 37.774976143114706,
+    "longitude": -122.4199747195254,
+    "acceleration": 0,
+    "rotation": -0.41
+  },
+  {
+    "timestamp": "2025-06-15T20:20:10.135Z",
+    "latitude": 37.77494358401338,
+    "longitude": -122.42002678680242,
+    "acceleration": 0.04,
+    "rotation": 1.25
+  },
+  {
+    "timestamp": "2025-06-15T20:20:11.135Z",
+    "latitude": 37.77491482465657,
+    "longitude": -122.42009711023356,
+    "acceleration": 1.12,
+    "rotation": 2.91
+  },
+  {
+    "timestamp": "2025-06-15T20:20:12.135Z",
+    "latitude": 37.774878630443354,
+    "longitude": -122.42007038777665,
+    "acceleration": 0.63,
+    "rotation": 4.56
+  },
+  {
+    "timestamp": "2025-06-15T20:20:13.135Z",
+    "latitude": 37.77490092880455,
+    "longitude": -122.42012320608173,
+    "acceleration": 0.17,
+    "rotation": 6.19
+  },
+  {
+    "timestamp": "2025-06-15T20:20:14.135Z",
+    "latitude": 37.7749518584878,
+    "longitude": -122.42013771606815,
+    "acceleration": 0.65,
+    "rotation": 7.79
+  },
+  {
+    "timestamp": "2025-06-15T20:20:15.135Z",
+    "latitude": 37.775009944113556,
+    "longitude": -122.42010816170068,
+    "acceleration": 0.63,
+    "rotation": 9.35
+  },
+  {
+    "timestamp": "2025-06-15T20:20:16.135Z",
+    "latitude": 37.77505831329432,
+    "longitude": -122.42015209156732,
+    "acceleration": 0.3,
+    "rotation": 10.88
+  },
+  {
+    "timestamp": "2025-06-15T20:20:17.135Z",
+    "latitude": 37.77499442311178,
+    "longitude": -122.42019542510623,
+    "acceleration": -0.28,
+    "rotation": 12.35
+  },
+  {
+    "timestamp": "2025-06-15T20:20:18.135Z",
+    "latitude": 37.77498999267289,
+    "longitude": -122.4202540127274,
+    "acceleration": 1.09,
+    "rotation": 13.77
+  },
+  {
+    "timestamp": "2025-06-15T20:20:19.135Z",
+    "latitude": 37.77492996079041,
+    "longitude": -122.42021736126661,
+    "acceleration": 1.6,
+    "rotation": 15.13
+  },
+  {
+    "timestamp": "2025-06-15T20:20:20.135Z",
+    "latitude": 37.774992313170294,
+    "longitude": -122.42015509282714,
+    "acceleration": 0.14,
+    "rotation": 16.42
+  },
+  {
+    "timestamp": "2025-06-15T20:20:21.135Z",
+    "latitude": 37.77495053994206,
+    "longitude": -122.42011809057692,
+    "acceleration": 0.76,
+    "rotation": 17.64
+  },
+  {
+    "timestamp": "2025-06-15T20:20:22.135Z",
+    "latitude": 37.7749070502065,
+    "longitude": -122.42007418900656,
+    "acceleration": -0.06,
+    "rotation": 18.78
+  },
+  {
+    "timestamp": "2025-06-15T20:20:23.135Z",
+    "latitude": 37.77493485022793,
+    "longitude": -122.42004510402069,
+    "acceleration": 0.41,
+    "rotation": 19.84
+  },
+  {
+    "timestamp": "2025-06-15T20:20:24.135Z",
+    "latitude": 37.77492469367885,
+    "longitude": -122.4200574211328,
+    "acceleration": 0.09,
+    "rotation": 20.81
+  },
+  {
+    "timestamp": "2025-06-15T20:20:25.135Z",
+    "latitude": 37.7749072687614,
+    "longitude": -122.42001081200793,
+    "acceleration": 0.39,
+    "rotation": 21.69
+  },
+  {
+    "timestamp": "2025-06-15T20:20:26.135Z",
+    "latitude": 37.77485920476013,
+    "longitude": -122.42004896941074,
+    "acceleration": -0.23,
+    "rotation": 22.47
+  },
+  {
+    "timestamp": "2025-06-15T20:20:27.135Z",
+    "latitude": 37.77490348226247,
+    "longitude": -122.42005724996378,
+    "acceleration": -0.06,
+    "rotation": 23.15
+  },
+  {
+    "timestamp": "2025-06-15T20:20:28.135Z",
+    "latitude": 37.774889770980046,
+    "longitude": -122.42010273513964,
+    "acceleration": -0.04,
+    "rotation": 23.73
+  },
+  {
+    "timestamp": "2025-06-15T20:20:29.135Z",
+    "latitude": 37.77488744475155,
+    "longitude": -122.42005517421403,
+    "acceleration": 1.33,
+    "rotation": 24.2
+  },
+  {
+    "timestamp": "2025-06-15T20:20:30.135Z",
+    "latitude": 37.774857023634596,
+    "longitude": -122.42009779167981,
+    "acceleration": 0.39,
+    "rotation": 24.56
+  },
+  {
+    "timestamp": "2025-06-15T20:20:31.135Z",
+    "latitude": 37.774836908596804,
+    "longitude": -122.42011592485261,
+    "acceleration": 1.51,
+    "rotation": 24.82
+  },
+  {
+    "timestamp": "2025-06-15T20:20:32.135Z",
+    "latitude": 37.774831302019045,
+    "longitude": -122.42007951995572,
+    "acceleration": 0.53,
+    "rotation": 24.96
+  },
+  {
+    "timestamp": "2025-06-15T20:20:33.135Z",
+    "latitude": 37.77480112396726,
+    "longitude": -122.42002720781008,
+    "acceleration": 0.52,
+    "rotation": 25
+  },
+  {
+    "timestamp": "2025-06-15T20:20:34.135Z",
+    "latitude": 37.77483822726255,
+    "longitude": -122.41999285278311,
+    "acceleration": 1.25,
+    "rotation": 24.92
+  },
+  {
+    "timestamp": "2025-06-15T20:20:35.135Z",
+    "latitude": 37.77487530286179,
+    "longitude": -122.41998916658115,
+    "acceleration": 0.03,
+    "rotation": 24.73
+  },
+  {
+    "timestamp": "2025-06-15T20:20:36.135Z",
+    "latitude": 37.77490270105889,
+    "longitude": -122.41995582158665,
+    "acceleration": 0.34,
+    "rotation": 24.44
+  },
+  {
+    "timestamp": "2025-06-15T20:20:37.135Z",
+    "latitude": 37.77493683406518,
+    "longitude": -122.41998768777695,
+    "acceleration": 0.64,
+    "rotation": 24.03
+  },
+  {
+    "timestamp": "2025-06-15T20:20:38.135Z",
+    "latitude": 37.77494102991313,
+    "longitude": -122.41996960494401,
+    "acceleration": 1.34,
+    "rotation": 23.52
+  },
+  {
+    "timestamp": "2025-06-15T20:20:39.135Z",
+    "latitude": 37.774914129910925,
+    "longitude": -122.42002175135156,
+    "acceleration": 0.98,
+    "rotation": 22.9
+  },
+  {
+    "timestamp": "2025-06-15T20:20:40.135Z",
+    "latitude": 37.774921802611615,
+    "longitude": -122.41999069857938,
+    "acceleration": 0.65,
+    "rotation": 22.18
+  },
+  {
+    "timestamp": "2025-06-15T20:20:41.135Z",
+    "latitude": 37.77488691449753,
+    "longitude": -122.41999226912553,
+    "acceleration": 0.37,
+    "rotation": 21.36
+  },
+  {
+    "timestamp": "2025-06-15T20:20:42.135Z",
+    "latitude": 37.77492297584071,
+    "longitude": -122.41998472390414,
+    "acceleration": 0.35,
+    "rotation": 20.45
+  },
+  {
+    "timestamp": "2025-06-15T20:20:43.135Z",
+    "latitude": 37.77486858030766,
+    "longitude": -122.42001753125734,
+    "acceleration": 0.82,
+    "rotation": 19.45
+  },
+  {
+    "timestamp": "2025-06-15T20:20:44.135Z",
+    "latitude": 37.774856806990115,
+    "longitude": -122.41999757620938,
+    "acceleration": -0.31,
+    "rotation": 18.36
+  },
+  {
+    "timestamp": "2025-06-15T20:20:45.135Z",
+    "latitude": 37.774876089081246,
+    "longitude": -122.42000910200902,
+    "acceleration": 1.09,
+    "rotation": 17.19
+  },
+  {
+    "timestamp": "2025-06-15T20:20:46.135Z",
+    "latitude": 37.77482633039617,
+    "longitude": -122.41995510257307,
+    "acceleration": 1.28,
+    "rotation": 15.94
+  },
+  {
+    "timestamp": "2025-06-15T20:20:47.135Z",
+    "latitude": 37.774819664660896,
+    "longitude": -122.41998700348671,
+    "acceleration": 0.75,
+    "rotation": 14.62
+  },
+  {
+    "timestamp": "2025-06-15T20:20:48.135Z",
+    "latitude": 37.774767026986524,
+    "longitude": -122.41995928146214,
+    "acceleration": 0.28,
+    "rotation": 13.24
+  },
+  {
+    "timestamp": "2025-06-15T20:20:49.135Z",
+    "latitude": 37.77478770920036,
+    "longitude": -122.41994121057638,
+    "acceleration": 1.36,
+    "rotation": 11.8
+  },
+  {
+    "timestamp": "2025-06-15T20:20:50.135Z",
+    "latitude": 37.77479712490475,
+    "longitude": -122.41991624124293,
+    "acceleration": 0.88,
+    "rotation": 10.3
+  },
+  {
+    "timestamp": "2025-06-15T20:20:51.135Z",
+    "latitude": 37.77480296911248,
+    "longitude": -122.41992593550404,
+    "acceleration": 0.72,
+    "rotation": 8.76
+  },
+  {
+    "timestamp": "2025-06-15T20:20:52.135Z",
+    "latitude": 37.77477813669394,
+    "longitude": -122.41991213857844,
+    "acceleration": 0.11,
+    "rotation": 7.18
+  },
+  {
+    "timestamp": "2025-06-15T20:20:53.135Z",
+    "latitude": 37.77482030967437,
+    "longitude": -122.41991117105523,
+    "acceleration": 0.92,
+    "rotation": 5.57
+  },
+  {
+    "timestamp": "2025-06-15T20:20:54.135Z",
+    "latitude": 37.77485766633603,
+    "longitude": -122.41988878966816,
+    "acceleration": 0,
+    "rotation": 3.94
+  },
+  {
+    "timestamp": "2025-06-15T20:20:55.135Z",
+    "latitude": 37.77487378030002,
+    "longitude": -122.41986671457295,
+    "acceleration": 0.51,
+    "rotation": 2.28
+  },
+  {
+    "timestamp": "2025-06-15T20:20:56.135Z",
+    "latitude": 37.77485088084468,
+    "longitude": -122.41982579651979,
+    "acceleration": 0.23,
+    "rotation": 0.62
+  },
+  {
+    "timestamp": "2025-06-15T20:20:57.135Z",
+    "latitude": 37.77481312957668,
+    "longitude": -122.41981887841857,
+    "acceleration": 0.22,
+    "rotation": -1.05
+  },
+  {
+    "timestamp": "2025-06-15T20:20:58.135Z",
+    "latitude": 37.7748513649988,
+    "longitude": -122.41983870862697,
+    "acceleration": 0.74,
+    "rotation": -2.71
+  },
+  {
+    "timestamp": "2025-06-15T20:20:59.135Z",
+    "latitude": 37.77487505968052,
+    "longitude": -122.41980996963315,
+    "acceleration": 0.69,
+    "rotation": -4.36
+  },
+  {
+    "timestamp": "2025-06-15T20:21:00.135Z",
+    "latitude": 37.77483911204087,
+    "longitude": -122.41983271819439,
+    "acceleration": 0.86,
+    "rotation": -5.99
+  },
+  {
+    "timestamp": "2025-06-15T20:21:01.135Z",
+    "latitude": 37.77483637794737,
+    "longitude": -122.41983850693912,
+    "acceleration": 0.66,
+    "rotation": -7.59
+  },
+  {
+    "timestamp": "2025-06-15T20:21:02.135Z",
+    "latitude": 37.774877477658535,
+    "longitude": -122.41982781982146,
+    "acceleration": -0.07,
+    "rotation": -9.16
+  },
+  {
+    "timestamp": "2025-06-15T20:21:03.135Z",
+    "latitude": 37.77489014843609,
+    "longitude": -122.41985906326941,
+    "acceleration": 0.18,
+    "rotation": -10.69
+  },
+  {
+    "timestamp": "2025-06-15T20:21:04.135Z",
+    "latitude": 37.774849160693535,
+    "longitude": -122.4198609907293,
+    "acceleration": 0.37,
+    "rotation": -12.17
+  },
+  {
+    "timestamp": "2025-06-15T20:21:05.135Z",
+    "latitude": 37.77482477691944,
+    "longitude": -122.41990467472908,
+    "acceleration": -0.47,
+    "rotation": -13.6
+  },
+  {
+    "timestamp": "2025-06-15T20:21:06.135Z",
+    "latitude": 37.774810449677624,
+    "longitude": -122.41986460876505,
+    "acceleration": 0.84,
+    "rotation": -14.97
+  },
+  {
+    "timestamp": "2025-06-15T20:21:07.135Z",
+    "latitude": 37.774796802049885,
+    "longitude": -122.41989175954237,
+    "acceleration": -0.43,
+    "rotation": -16.27
+  },
+  {
+    "timestamp": "2025-06-15T20:21:08.136Z",
+    "latitude": 37.77476399734752,
+    "longitude": -122.41991114488013,
+    "acceleration": -0.32,
+    "rotation": -17.5
+  },
+  {
+    "timestamp": "2025-06-15T20:21:09.136Z",
+    "latitude": 37.774756396864255,
+    "longitude": -122.41988080481968,
+    "acceleration": -0.09,
+    "rotation": -18.65
+  },
+  {
+    "timestamp": "2025-06-15T20:21:10.136Z",
+    "latitude": 37.77471901801051,
+    "longitude": -122.41990483909453,
+    "acceleration": 0.76,
+    "rotation": -19.72
+  },
+  {
+    "timestamp": "2025-06-15T20:21:11.136Z",
+    "latitude": 37.77473018683834,
+    "longitude": -122.419881197843,
+    "acceleration": 1.34,
+    "rotation": -20.7
+  },
+  {
+    "timestamp": "2025-06-15T20:21:12.136Z",
+    "latitude": 37.774714046819035,
+    "longitude": -122.41990944530764,
+    "acceleration": -0.48,
+    "rotation": -21.58
+  },
+  {
+    "timestamp": "2025-06-15T20:21:13.136Z",
+    "latitude": 37.77471400090822,
+    "longitude": -122.41994567017817,
+    "acceleration": 0.33,
+    "rotation": -22.38
+  },
+  {
+    "timestamp": "2025-06-15T20:21:14.136Z",
+    "latitude": 37.77471194081918,
+    "longitude": -122.41996001009854,
+    "acceleration": -0.02,
+    "rotation": -23.07
+  },
+  {
+    "timestamp": "2025-06-15T20:21:15.136Z",
+    "latitude": 37.774719357291936,
+    "longitude": -122.41992332409399,
+    "acceleration": -0.4,
+    "rotation": -23.66
+  },
+  {
+    "timestamp": "2025-06-15T20:21:16.136Z",
+    "latitude": 37.77471551393742,
+    "longitude": -122.41989300280113,
+    "acceleration": 1.37,
+    "rotation": -24.15
+  },
+  {
+    "timestamp": "2025-06-15T20:21:17.136Z",
+    "latitude": 37.77468944833617,
+    "longitude": -122.41990390829173,
+    "acceleration": 1.15,
+    "rotation": -24.52
+  },
+  {
+    "timestamp": "2025-06-15T20:21:18.136Z",
+    "latitude": 37.774712485823976,
+    "longitude": -122.4199329672318,
+    "acceleration": 1.19,
+    "rotation": -24.79
+  },
+  {
+    "timestamp": "2025-06-15T20:21:19.136Z",
+    "latitude": 37.77472890405679,
+    "longitude": -122.41991217790716,
+    "acceleration": -0.61,
+    "rotation": -24.95
+  },
+  {
+    "timestamp": "2025-06-15T20:21:20.136Z",
+    "latitude": 37.77470174790963,
+    "longitude": -122.41994363338002,
+    "acceleration": -0.02,
+    "rotation": -25
+  },
+  {
+    "timestamp": "2025-06-15T20:21:21.136Z",
+    "latitude": 37.77469731104602,
+    "longitude": -122.41994279633619,
+    "acceleration": -0.1,
+    "rotation": -24.94
+  },
+  {
+    "timestamp": "2025-06-15T20:21:22.136Z",
+    "latitude": 37.77470738932318,
+    "longitude": -122.41994055928481,
+    "acceleration": 0.77,
+    "rotation": -24.76
+  },
+  {
+    "timestamp": "2025-06-15T20:21:23.136Z",
+    "latitude": 37.77470534724181,
+    "longitude": -122.41990735765238,
+    "acceleration": 0.14,
+    "rotation": -24.48
+  },
+  {
+    "timestamp": "2025-06-15T20:21:24.136Z",
+    "latitude": 37.774735525848826,
+    "longitude": -122.41990722941144,
+    "acceleration": -0.08,
+    "rotation": -24.09
+  },
+  {
+    "timestamp": "2025-06-15T20:21:25.136Z",
+    "latitude": 37.774748838860575,
+    "longitude": -122.41991643779555,
+    "acceleration": -0.39,
+    "rotation": -23.59
+  },
+  {
+    "timestamp": "2025-06-15T20:21:26.136Z",
+    "latitude": 37.77475145643854,
+    "longitude": -122.4199207566842,
+    "acceleration": 0.06,
+    "rotation": -22.98
+  },
+  {
+    "timestamp": "2025-06-15T20:21:27.136Z",
+    "latitude": 37.77472466721595,
+    "longitude": -122.41989869776977,
+    "acceleration": 0.92,
+    "rotation": -22.28
+  },
+  {
+    "timestamp": "2025-06-15T20:21:28.136Z",
+    "latitude": 37.77474162811929,
+    "longitude": -122.4199183004637,
+    "acceleration": -0.31,
+    "rotation": -21.47
+  },
+  {
+    "timestamp": "2025-06-15T20:21:29.136Z",
+    "latitude": 37.77474085875561,
+    "longitude": -122.419906224195,
+    "acceleration": -0.6,
+    "rotation": -20.57
+  },
+  {
+    "timestamp": "2025-06-15T20:21:30.136Z",
+    "latitude": 37.77471833620701,
+    "longitude": -122.4199353155177,
+    "acceleration": 0.11,
+    "rotation": -19.58
+  },
+  {
+    "timestamp": "2025-06-15T20:21:31.136Z",
+    "latitude": 37.774740224880105,
+    "longitude": -122.4199113825373,
+    "acceleration": 0.76,
+    "rotation": -18.5
+  },
+  {
+    "timestamp": "2025-06-15T20:21:32.136Z",
+    "latitude": 37.77471164254462,
+    "longitude": -122.41988866333185,
+    "acceleration": 0.36,
+    "rotation": -17.34
+  },
+  {
+    "timestamp": "2025-06-15T20:21:33.136Z",
+    "latitude": 37.77473843930051,
+    "longitude": -122.41988292399597,
+    "acceleration": 0.51,
+    "rotation": -16.1
+  },
+  {
+    "timestamp": "2025-06-15T20:21:34.136Z",
+    "latitude": 37.774725049371696,
+    "longitude": -122.41987831022945,
+    "acceleration": 0.5,
+    "rotation": -14.79
+  },
+  {
+    "timestamp": "2025-06-15T20:21:35.136Z",
+    "latitude": 37.77469653418148,
+    "longitude": -122.41986948614709,
+    "acceleration": 0.95,
+    "rotation": -13.41
+  },
+  {
+    "timestamp": "2025-06-15T20:21:36.136Z",
+    "latitude": 37.77471742982667,
+    "longitude": -122.41986183685779,
+    "acceleration": 1,
+    "rotation": -11.98
+  },
+  {
+    "timestamp": "2025-06-15T20:21:37.136Z",
+    "latitude": 37.7746918787069,
+    "longitude": -122.41987630625988,
+    "acceleration": -0.59,
+    "rotation": -10.49
+  },
+  {
+    "timestamp": "2025-06-15T20:21:38.136Z",
+    "latitude": 37.77468726327652,
+    "longitude": -122.4199037161235,
+    "acceleration": 0.38,
+    "rotation": -8.96
+  },
+  {
+    "timestamp": "2025-06-15T20:21:39.136Z",
+    "latitude": 37.774666628281565,
+    "longitude": -122.41991325769746,
+    "acceleration": 0.63,
+    "rotation": -7.38
+  },
+  {
+    "timestamp": "2025-06-15T20:21:40.136Z",
+    "latitude": 37.77469029075348,
+    "longitude": -122.41992763151994,
+    "acceleration": 0.67,
+    "rotation": -5.77
+  },
+  {
+    "timestamp": "2025-06-15T20:21:41.136Z",
+    "latitude": 37.7746719611632,
+    "longitude": -122.41992905557419,
+    "acceleration": -0.71,
+    "rotation": -4.14
+  },
+  {
+    "timestamp": "2025-06-15T20:21:42.136Z",
+    "latitude": 37.7746523630745,
+    "longitude": -122.41991569887271,
+    "acceleration": 0.77,
+    "rotation": -2.49
+  },
+  {
+    "timestamp": "2025-06-15T20:21:43.136Z",
+    "latitude": 37.77463407206069,
+    "longitude": -122.41991809890548,
+    "acceleration": 0.19,
+    "rotation": -0.83
+  },
+  {
+    "timestamp": "2025-06-15T20:21:44.136Z",
+    "latitude": 37.77465215567985,
+    "longitude": -122.41990132457596,
+    "acceleration": 0.31,
+    "rotation": 0.84
+  },
+  {
+    "timestamp": "2025-06-15T20:21:45.136Z",
+    "latitude": 37.774658855423986,
+    "longitude": -122.41991046548345,
+    "acceleration": -0.6,
+    "rotation": 2.5
+  },
+  {
+    "timestamp": "2025-06-15T20:21:46.136Z",
+    "latitude": 37.77466982645705,
+    "longitude": -122.41991756143861,
+    "acceleration": 0.43,
+    "rotation": 4.15
+  },
+  {
+    "timestamp": "2025-06-15T20:21:47.136Z",
+    "latitude": 37.774657037232544,
+    "longitude": -122.41993617852826,
+    "acceleration": 0.9,
+    "rotation": 5.79
+  },
+  {
+    "timestamp": "2025-06-15T20:21:48.136Z",
+    "latitude": 37.77466437616513,
+    "longitude": -122.41993242381236,
+    "acceleration": -0.51,
+    "rotation": 7.4
+  },
+  {
+    "timestamp": "2025-06-15T20:21:49.136Z",
+    "latitude": 37.77464218245574,
+    "longitude": -122.41992524446934,
+    "acceleration": 1.08,
+    "rotation": 8.97
+  },
+  {
+    "timestamp": "2025-06-15T20:21:50.136Z",
+    "latitude": 37.774636383044054,
+    "longitude": -122.41991759590007,
+    "acceleration": -0.78,
+    "rotation": 10.5
+  },
+  {
+    "timestamp": "2025-06-15T20:21:51.136Z",
+    "latitude": 37.774617259409396,
+    "longitude": -122.4199032770416,
+    "acceleration": -0.53,
+    "rotation": 11.99
+  },
+  {
+    "timestamp": "2025-06-15T20:21:52.136Z",
+    "latitude": 37.77461402214703,
+    "longitude": -122.4198894775038,
+    "acceleration": -0.07,
+    "rotation": 13.43
+  },
+  {
+    "timestamp": "2025-06-15T20:21:53.136Z",
+    "latitude": 37.774610944603005,
+    "longitude": -122.41988183565076,
+    "acceleration": 0.7,
+    "rotation": 14.8
+  },
+  {
+    "timestamp": "2025-06-15T20:21:54.136Z",
+    "latitude": 37.774618949753005,
+    "longitude": -122.41987544859515,
+    "acceleration": -0.65,
+    "rotation": 16.11
+  },
+  {
+    "timestamp": "2025-06-15T20:21:55.136Z",
+    "latitude": 37.77463797672528,
+    "longitude": -122.41986623927261,
+    "acceleration": -0.51,
+    "rotation": 17.35
+  },
+  {
+    "timestamp": "2025-06-15T20:21:56.136Z",
+    "latitude": 37.774655589084865,
+    "longitude": -122.41988438036253,
+    "acceleration": 0.94,
+    "rotation": 18.51
+  },
+  {
+    "timestamp": "2025-06-15T20:21:57.136Z",
+    "latitude": 37.77465586833945,
+    "longitude": -122.41988490251461,
+    "acceleration": -0.72,
+    "rotation": 19.59
+  },
+  {
+    "timestamp": "2025-06-15T20:21:58.136Z",
+    "latitude": 37.774646033611496,
+    "longitude": -122.41988543749605,
+    "acceleration": 0.02,
+    "rotation": 20.58
+  },
+  {
+    "timestamp": "2025-06-15T20:21:59.136Z",
+    "latitude": 37.77464382772603,
+    "longitude": -122.41987439894302,
+    "acceleration": -0.03,
+    "rotation": 21.48
+  },
+  {
+    "timestamp": "2025-06-15T20:22:00.136Z",
+    "latitude": 37.77463581356475,
+    "longitude": -122.41987997257533,
+    "acceleration": -0.76,
+    "rotation": 22.28
+  },
+  {
+    "timestamp": "2025-06-15T20:22:01.136Z",
+    "latitude": 37.77463606197865,
+    "longitude": -122.41989631572051,
+    "acceleration": 0.26,
+    "rotation": 22.99
+  },
+  {
+    "timestamp": "2025-06-15T20:22:02.136Z",
+    "latitude": 37.77462950038569,
+    "longitude": -122.41988454922918,
+    "acceleration": -0.22,
+    "rotation": 23.59
+  },
+  {
+    "timestamp": "2025-06-15T20:22:03.136Z",
+    "latitude": 37.77463885675653,
+    "longitude": -122.41987653544432,
+    "acceleration": -0.36,
+    "rotation": 24.09
+  },
+  {
+    "timestamp": "2025-06-15T20:22:04.136Z",
+    "latitude": 37.77465324535245,
+    "longitude": -122.41988984801014,
+    "acceleration": -0.54,
+    "rotation": 24.48
+  },
+  {
+    "timestamp": "2025-06-15T20:22:05.136Z",
+    "latitude": 37.77466548730456,
+    "longitude": -122.41989532525774,
+    "acceleration": -0.04,
+    "rotation": 24.77
+  },
+  {
+    "timestamp": "2025-06-15T20:22:06.136Z",
+    "latitude": 37.77466675402126,
+    "longitude": -122.41988987183397,
+    "acceleration": -0.63,
+    "rotation": 24.94
+  },
+  {
+    "timestamp": "2025-06-15T20:22:07.136Z",
+    "latitude": 37.774665622224056,
+    "longitude": -122.41987937782356,
+    "acceleration": -0.16,
+    "rotation": 25
+  },
+  {
+    "timestamp": "2025-06-15T20:22:08.136Z",
+    "latitude": 37.77467737527624,
+    "longitude": -122.4198695676134,
+    "acceleration": -0.34,
+    "rotation": 24.95
+  },
+  {
+    "timestamp": "2025-06-15T20:22:09.136Z",
+    "latitude": 37.77466802030197,
+    "longitude": -122.41987215040781,
+    "acceleration": 0.35,
+    "rotation": 24.79
+  },
+  {
+    "timestamp": "2025-06-15T20:22:10.136Z",
+    "latitude": 37.77465986825141,
+    "longitude": -122.41987430701869,
+    "acceleration": 0.52,
+    "rotation": 24.52
+  },
+  {
+    "timestamp": "2025-06-15T20:22:11.136Z",
+    "latitude": 37.77465261319849,
+    "longitude": -122.41987064079376,
+    "acceleration": 0.85,
+    "rotation": 24.14
+  },
+  {
+    "timestamp": "2025-06-15T20:22:12.136Z",
+    "latitude": 37.774643882751626,
+    "longitude": -122.41987070331476,
+    "acceleration": -0.71,
+    "rotation": 23.66
+  },
+  {
+    "timestamp": "2025-06-15T20:22:13.136Z",
+    "latitude": 37.77464809397248,
+    "longitude": -122.41986376209253,
+    "acceleration": 0.1,
+    "rotation": 23.06
+  },
+  {
+    "timestamp": "2025-06-15T20:22:14.136Z",
+    "latitude": 37.77465017768695,
+    "longitude": -122.41987184130903,
+    "acceleration": 0.32,
+    "rotation": 22.37
+  },
+  {
+    "timestamp": "2025-06-15T20:22:15.136Z",
+    "latitude": 37.77465528113711,
+    "longitude": -122.41986934734572,
+    "acceleration": -0.9,
+    "rotation": 21.58
+  },
+  {
+    "timestamp": "2025-06-15T20:22:16.136Z",
+    "latitude": 37.77465065603807,
+    "longitude": -122.41986935018618,
+    "acceleration": 0.16,
+    "rotation": 20.69
+  },
+  {
+    "timestamp": "2025-06-15T20:22:17.136Z",
+    "latitude": 37.774655557078404,
+    "longitude": -122.41986470005341,
+    "acceleration": -0.01,
+    "rotation": 19.71
+  },
+  {
+    "timestamp": "2025-06-15T20:22:18.136Z",
+    "latitude": 37.77466093392737,
+    "longitude": -122.4198577489439,
+    "acceleration": -0.41,
+    "rotation": 18.64
+  },
+  {
+    "timestamp": "2025-06-15T20:22:19.136Z",
+    "latitude": 37.77465672741109,
+    "longitude": -122.41986100326955,
+    "acceleration": 0.64,
+    "rotation": 17.49
+  },
+  {
+    "timestamp": "2025-06-15T20:22:20.136Z",
+    "latitude": 37.77466314010206,
+    "longitude": -122.41986791353752,
+    "acceleration": -0.68,
+    "rotation": 16.26
+  },
+  {
+    "timestamp": "2025-06-15T20:22:21.136Z",
+    "latitude": 37.77466727510545,
+    "longitude": -122.4198665901979,
+    "acceleration": -0.11,
+    "rotation": 14.96
+  },
+  {
+    "timestamp": "2025-06-15T20:22:22.136Z",
+    "latitude": 37.774663931954066,
+    "longitude": -122.41986595791775,
+    "acceleration": -0.6,
+    "rotation": 13.59
+  },
+  {
+    "timestamp": "2025-06-15T20:22:23.136Z",
+    "latitude": 37.77466140459598,
+    "longitude": -122.41986160949999,
+    "acceleration": -0.65,
+    "rotation": 12.16
+  },
+  {
+    "timestamp": "2025-06-15T20:22:24.136Z",
+    "latitude": 37.774659821655874,
+    "longitude": -122.41985706445685,
+    "acceleration": -0.21,
+    "rotation": 10.68
+  },
+  {
+    "timestamp": "2025-06-15T20:22:25.136Z",
+    "latitude": 37.77466251246019,
+    "longitude": -122.41985402670143,
+    "acceleration": -0.07,
+    "rotation": 9.15
+  },
+  {
+    "timestamp": "2025-06-15T20:22:26.136Z",
+    "latitude": 37.77466172127171,
+    "longitude": -122.41985527396791,
+    "acceleration": 0.45,
+    "rotation": 7.58
+  },
+  {
+    "timestamp": "2025-06-15T20:22:27.136Z",
+    "latitude": 37.77465823700382,
+    "longitude": -122.41985333235434,
+    "acceleration": -0.09,
+    "rotation": 5.97
+  },
+  {
+    "timestamp": "2025-06-15T20:22:28.136Z",
+    "latitude": 37.7746552653163,
+    "longitude": -122.41985320132738,
+    "acceleration": 0.59,
+    "rotation": 4.34
+  },
+  {
+    "timestamp": "2025-06-15T20:22:29.136Z",
+    "latitude": 37.77465739098818,
+    "longitude": -122.41985094644741,
+    "acceleration": -0.93,
+    "rotation": 2.69
+  },
+  {
+    "timestamp": "2025-06-15T20:22:30.136Z",
+    "latitude": 37.774659158550115,
+    "longitude": -122.41985088140375,
+    "acceleration": 0.34,
+    "rotation": 1.03
+  },
+  {
+    "timestamp": "2025-06-15T20:22:31.136Z",
+    "latitude": 37.7746577340844,
+    "longitude": -122.41985055280661,
+    "acceleration": 0.28,
+    "rotation": -0.63
+  },
+  {
+    "timestamp": "2025-06-15T20:22:32.136Z",
+    "latitude": 37.77465794125886,
+    "longitude": -122.41985066102163,
+    "acceleration": 0.77,
+    "rotation": -2.3
+  },
+  {
+    "timestamp": "2025-06-15T20:22:33.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.69,
+    "rotation": -3.95
+  },
+  {
+    "timestamp": "2025-06-15T20:22:34.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.32,
+    "rotation": -5.59
+  },
+  {
+    "timestamp": "2025-06-15T20:22:35.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.87,
+    "rotation": -7.2
+  },
+  {
+    "timestamp": "2025-06-15T20:22:36.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.67,
+    "rotation": -8.78
+  },
+  {
+    "timestamp": "2025-06-15T20:22:37.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.74,
+    "rotation": -10.32
+  },
+  {
+    "timestamp": "2025-06-15T20:22:38.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.48,
+    "rotation": -11.81
+  },
+  {
+    "timestamp": "2025-06-15T20:22:39.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.24,
+    "rotation": -13.25
+  },
+  {
+    "timestamp": "2025-06-15T20:22:40.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.91,
+    "rotation": -14.63
+  },
+  {
+    "timestamp": "2025-06-15T20:22:41.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.44,
+    "rotation": -15.95
+  },
+  {
+    "timestamp": "2025-06-15T20:22:42.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.34,
+    "rotation": -17.2
+  },
+  {
+    "timestamp": "2025-06-15T20:22:43.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.25,
+    "rotation": -18.37
+  },
+  {
+    "timestamp": "2025-06-15T20:22:44.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.05,
+    "rotation": -19.46
+  },
+  {
+    "timestamp": "2025-06-15T20:22:45.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.75,
+    "rotation": -20.46
+  },
+  {
+    "timestamp": "2025-06-15T20:22:46.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.88,
+    "rotation": -21.37
+  },
+  {
+    "timestamp": "2025-06-15T20:22:47.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.21,
+    "rotation": -22.19
+  },
+  {
+    "timestamp": "2025-06-15T20:22:48.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.95,
+    "rotation": -22.91
+  },
+  {
+    "timestamp": "2025-06-15T20:22:49.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.24,
+    "rotation": -23.52
+  },
+  {
+    "timestamp": "2025-06-15T20:22:50.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.3,
+    "rotation": -24.03
+  },
+  {
+    "timestamp": "2025-06-15T20:22:51.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.15,
+    "rotation": -24.44
+  },
+  {
+    "timestamp": "2025-06-15T20:22:52.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.12,
+    "rotation": -24.74
+  },
+  {
+    "timestamp": "2025-06-15T20:22:53.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.73,
+    "rotation": -24.92
+  },
+  {
+    "timestamp": "2025-06-15T20:22:54.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.69,
+    "rotation": -25
+  },
+  {
+    "timestamp": "2025-06-15T20:22:55.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.45,
+    "rotation": -24.96
+  },
+  {
+    "timestamp": "2025-06-15T20:22:56.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.56,
+    "rotation": -24.82
+  },
+  {
+    "timestamp": "2025-06-15T20:22:57.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.5,
+    "rotation": -24.56
+  },
+  {
+    "timestamp": "2025-06-15T20:22:58.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.19,
+    "rotation": -24.19
+  },
+  {
+    "timestamp": "2025-06-15T20:22:59.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.87,
+    "rotation": -23.72
+  },
+  {
+    "timestamp": "2025-06-15T20:23:00.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.92,
+    "rotation": -23.14
+  },
+  {
+    "timestamp": "2025-06-15T20:23:01.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.26,
+    "rotation": -22.46
+  },
+  {
+    "timestamp": "2025-06-15T20:23:02.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.69,
+    "rotation": -21.68
+  },
+  {
+    "timestamp": "2025-06-15T20:23:03.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.95,
+    "rotation": -20.8
+  },
+  {
+    "timestamp": "2025-06-15T20:23:04.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.16,
+    "rotation": -19.83
+  },
+  {
+    "timestamp": "2025-06-15T20:23:05.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.11,
+    "rotation": -18.77
+  },
+  {
+    "timestamp": "2025-06-15T20:23:06.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.98,
+    "rotation": -17.63
+  },
+  {
+    "timestamp": "2025-06-15T20:23:07.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.12,
+    "rotation": -16.41
+  },
+  {
+    "timestamp": "2025-06-15T20:23:08.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.57,
+    "rotation": -15.12
+  },
+  {
+    "timestamp": "2025-06-15T20:23:09.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.92,
+    "rotation": -13.76
+  },
+  {
+    "timestamp": "2025-06-15T20:23:10.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.88,
+    "rotation": -12.34
+  },
+  {
+    "timestamp": "2025-06-15T20:23:11.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.72,
+    "rotation": -10.86
+  },
+  {
+    "timestamp": "2025-06-15T20:23:12.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.66,
+    "rotation": -9.34
+  },
+  {
+    "timestamp": "2025-06-15T20:23:13.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.58,
+    "rotation": -7.77
+  },
+  {
+    "timestamp": "2025-06-15T20:23:14.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.9,
+    "rotation": -6.17
+  },
+  {
+    "timestamp": "2025-06-15T20:23:15.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.42,
+    "rotation": -4.55
+  },
+  {
+    "timestamp": "2025-06-15T20:23:16.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.04,
+    "rotation": -2.9
+  },
+  {
+    "timestamp": "2025-06-15T20:23:17.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.72,
+    "rotation": -1.24
+  },
+  {
+    "timestamp": "2025-06-15T20:23:18.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.76,
+    "rotation": 0.43
+  },
+  {
+    "timestamp": "2025-06-15T20:23:19.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.35,
+    "rotation": 2.09
+  },
+  {
+    "timestamp": "2025-06-15T20:23:20.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.04,
+    "rotation": 3.75
+  },
+  {
+    "timestamp": "2025-06-15T20:23:21.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.9,
+    "rotation": 5.39
+  },
+  {
+    "timestamp": "2025-06-15T20:23:22.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.98,
+    "rotation": 7
+  },
+  {
+    "timestamp": "2025-06-15T20:23:23.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.6,
+    "rotation": 8.58
+  },
+  {
+    "timestamp": "2025-06-15T20:23:24.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.45,
+    "rotation": 10.13
+  },
+  {
+    "timestamp": "2025-06-15T20:23:25.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.45,
+    "rotation": 11.63
+  },
+  {
+    "timestamp": "2025-06-15T20:23:26.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.91,
+    "rotation": 13.08
+  },
+  {
+    "timestamp": "2025-06-15T20:23:27.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.13,
+    "rotation": 14.47
+  },
+  {
+    "timestamp": "2025-06-15T20:23:28.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.95,
+    "rotation": 15.79
+  },
+  {
+    "timestamp": "2025-06-15T20:23:29.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.51,
+    "rotation": 17.05
+  },
+  {
+    "timestamp": "2025-06-15T20:23:30.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.2,
+    "rotation": 18.23
+  },
+  {
+    "timestamp": "2025-06-15T20:23:31.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.13,
+    "rotation": 19.33
+  },
+  {
+    "timestamp": "2025-06-15T20:23:32.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.34,
+    "rotation": 20.34
+  },
+  {
+    "timestamp": "2025-06-15T20:23:33.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": -0.45,
+    "rotation": 21.26
+  },
+  {
+    "timestamp": "2025-06-15T20:23:34.136Z",
+    "latitude": 37.774658188660595,
+    "longitude": -122.41985040750917,
+    "acceleration": 0.4,
+    "rotation": 22.09
+  }
+]
+}

@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "sessionId": "session-001",
+    "hashAlgorithm": "SHA-256",
+    "timestamp": "2025-07-09T18:35:00.000Z"
+  },
+  "merkleRoot": "3b6ef2c0bb1fe84587b58b181c1f417dd6cb1c05ea6e0eecf208fe10d71bb6f7",
+  "data": [
+    { "entry": { "event": "start", "time": "10:00" }, "hash": "b1a59c1b23f0d84551e132e1b5ed1cb1bbab4c865ed0ea6dc213487fdfad8e9e" },
+    { "entry": { "event": "stop", "time": "10:30" }, "hash": "b8809d1762b98ab94cdd989a137adcc040e22cc5b1174094c67dcfb0ce5fc6f3" }
+  ]
+}
